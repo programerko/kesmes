@@ -1,0 +1,7 @@
+I am learning python and this is one of my first "projects".
+I used pygame, code that is write is not very nice and not
+in english but it is working. Not sure if you can understand
+the code but you should be able to understand the game.
+This is stil work in proggres there is a lot to do to finish it.
+
+And all characters look the same but have diffrent properties.
